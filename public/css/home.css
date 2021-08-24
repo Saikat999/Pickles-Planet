@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.slider-image{
+    height: 415px;
+    width: 100%;
+    /* background-color: darkblue; */
+}
+
+.pickle-items{
+    height: 600px;
+    width: 100%;
+    background-color: brown;
+}
+.footer{
+    height: 45px;
+    width: 100%;
+    background-color:rgb(17, 51, 51);
+}
